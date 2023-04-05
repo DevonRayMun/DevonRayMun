@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+This is just an page right now because I don't feel like writnig anything yet.
 <!--
 **DevonRayMun/DevonRayMun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
